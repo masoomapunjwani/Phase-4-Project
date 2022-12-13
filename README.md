@@ -3,7 +3,7 @@ MoPay allows you to make  Taking Charge Of Your Personal Finance. You can consol
 It is a great app that allows customer to take charge of his personal finance. 
 ## Technology
 <code>Reactjs</code> <i> - For Frontend</i><br/>
-<code>Rsuite</code><i> - For Frontend design UI</i><br/>
+<code>Rsuite</code><i> - For Frontend Design UI</i><br/>
 <code>Ruby</code><i> - For Backend</i><br/>
 <code>Versel</code><i> - Frontend Hosting</i><br/>
 <code>Railways</code><i> - Backend Hosting</i><br/>
