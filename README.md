@@ -1,6 +1,6 @@
 # <img src="mopay.png" height="100px">  
 MoPay Allows you to make  Taking Charge Of Your Personal Finance. You Can consolidate all your funds under one application, get track of all transactions and for what reasons they were disbursed. 
-It is a great app that allows customer To Take Charge Of his personal finance. 
+It is a great app that allows customer To Take Charge Of his Personal Finance. 
 ## Technology
 <code>Reactjs</code> <i> - For Frontend</i><br/>
 <code>Rsuite</code><i> - For Frontend Design UI</i><br/>
